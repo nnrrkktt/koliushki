@@ -1,0 +1,83 @@
+  body {
+    background: radial-gradient(circle, rgb(82, 27, 27), rgb(3, 5, 121));
+    color: rgb(224, 141, 141);
+     }
+     ul{
+        font-size: 18px;
+     }
+     p{
+        font-size: 16px;
+        color: rgb(0, 7, 49);
+     }
+     h2{
+        font-size: 18px;
+        color: rgb(224, 141, 141);
+     }
+     h1{
+        color: hsl(212, 88%, 90%);
+        font-size: 22px;        
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+  font-family: "Playwrite RO", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-family: "Special Gothic Expanded One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-family: "Playwrite DK Loopet", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-family: "Russo One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+     }
+     .uli {
+        color: rgb(217, 216, 255);
+        border-radius: 5px;
+        text-align: center;
+        list-style-type: none;
+        padding: 0;
+        margin: 0 10px 0 0;
+        font-family: "Open Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: <weight>;
+        font-style: normal;
+        font-variation-settings:
+          "wdth" 100;
+          font-family: "Playwrite RO", cursive;
+          font-optical-sizing: auto;
+          font-weight: <weight>;
+          font-style: normal;
+          font-family: "Special Gothic Expanded One", sans-serif;
+          font-weight: 400;
+          font-style: normal;
+          font-family: "Playwrite DK Loopet", cursive;
+          font-optical-sizing: auto;
+          font-weight: <weight>;
+          font-style: normal;
+          font-family: "Comfortaa", sans-serif;
+          font-optical-sizing: auto;
+          font-weight: <weight>;
+          font-style: normal;
+          font-size:  15px;
+    }
+     .section{
+        margin: 20px;
+        padding: 15px;
+        border-radius: 5px;
+        background-color: #ffffff4b;
+     }
+     .that{
+        font-size: 30px;
+        text-align: center;
+     }
